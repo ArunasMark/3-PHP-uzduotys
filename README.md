@@ -2,6 +2,8 @@
 Sukurkite puslapius į kurios galėtumėme įvesti duomenis, ir gautumėme atsakymą (kiekviena užduotis turi būti sprendžiama skirtingame puslapyje, padarykite patogų vaikščiojimą tarp užduočių (meniu)).:
 
 1.  Įvedami skaičiai -a, b, c –kraštinių ilgiai (į atskirus input laukus). Parašykite PHP programą, kuri nustatytų, ar galima sudaryti trikampį ir rezultatą išvestų.
+![screencapture-trikampio-skaiciuokle](https://user-images.githubusercontent.com/107833251/206441867-1cdba35d-6a43-4fee-98b0-b86e451533e5.png)
+
 
 2. Pirmosios vasaros olimpinės žaidynės įvyko 1896 m. Atėnuose. Po to jos vyko arba turėjo vykti kas ketveri metai, t.y. 1900 m. – antrosios, 1904 m. – trečiosios ir t.t. Neįvykusioms žaidynėms skiriamas eilės numeris, o jų metai vis tiek laikomi olimpiniais. Tinklapyje turi būti įvedami metai, nustatykite olimpinių žaidimų numerį, jei metai yra olimpiniai arba praneškite, kad metai ne olimpiniai. Tinkalpyje turi būti išvedama ar tai buvo olimpiniai metai ar ne, jei tai buvo olimpiniai metai taip pat išvesti ir jų numerį.
 
