@@ -6,6 +6,11 @@ Sukurkite puslapius į kurios galėtumėme įvesti duomenis, ir gautumėme atsak
 
 
 2. Pirmosios vasaros olimpinės žaidynės įvyko 1896 m. Atėnuose. Po to jos vyko arba turėjo vykti kas ketveri metai, t.y. 1900 m. – antrosios, 1904 m. – trečiosios ir t.t. Neįvykusioms žaidynėms skiriamas eilės numeris, o jų metai vis tiek laikomi olimpiniais. Tinklapyje turi būti įvedami metai, nustatykite olimpinių žaidimų numerį, jei metai yra olimpiniai arba praneškite, kad metai ne olimpiniai. Tinkalpyje turi būti išvedama ar tai buvo olimpiniai metai ar ne, jei tai buvo olimpiniai metai taip pat išvesti ir jų numerį.
+![screencapture-olimpiniai-metai](https://user-images.githubusercontent.com/107833251/206452646-928fc318-e09b-449c-8b40-f7f3854990e1.png)
+![screencapture-olimpiniai-metai1](https://user-images.githubusercontent.com/107833251/206452670-1663c023-d787-41d9-af80-de7847867607.png)
+![screencapture-olimpiniai-metai2](https://user-images.githubusercontent.com/107833251/206452688-824c5386-d0db-45f4-aa8d-1aef83345fcf.png)
+
+
 
 3. Senovės japonų kalendorių sudarė 60 metų ciklas. Visi metai cikle buvo sunumeruoti nuo 1 iki 60 ir suskirstyti poromis, kurių kiekviena turėjo savo spalvą (žalią, raudoną, geltoną, baltą ar juodą). Ciklo metų spalvos buvo paskirstytos taip:
  1, 2, 11, 12, 21, 22, …, 51, 52 metai – žalia spalva;
