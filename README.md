@@ -20,6 +20,8 @@ Sukurkite puslapius į kurios galėtumėme įvesti duomenis, ir gautumėme atsak
  9, 10, 19, 20, 29, 30, …, 59, 60 metai – juoda spalva.
 
 Žinoma, kad naujasis 60 metų ciklas prasidėjo 1984-aisiais ir baigsis 2043-iaisiais metais; 1984-ieji ir 1985-ieji buvo žalios spalvos metai, 1986-ieji ir 1987-ieji buvo raudonos spalvos metai, 2043-ieji bus juodos spalvos metai. Sukurkite puslapį kuriame būtų įvedami metai ir būtų išvedama kokia yra įvestų metų spalva pagal japonų kalendorių.
+![screencapture-japonu-kalendorius](https://user-images.githubusercontent.com/107833251/206680964-cc451daf-1126-42b5-aa89-04596a640682.png)
+![screencapture-japonu kalendorius1](https://user-images.githubusercontent.com/107833251/206680994-a4e05161-cbf1-4423-bbc8-88c8dc85b8b6.png)
 
 
 
