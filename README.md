@@ -23,5 +23,8 @@ Sukurkite puslapius į kurios galėtumėme įvesti duomenis, ir gautumėme atsak
 ![screencapture-japonu-kalendorius](https://user-images.githubusercontent.com/107833251/206680964-cc451daf-1126-42b5-aa89-04596a640682.png)
 ![screencapture-japonu kalendorius1](https://user-images.githubusercontent.com/107833251/206680994-a4e05161-cbf1-4423-bbc8-88c8dc85b8b6.png)
 
+4.Trikampio ploto ir perimetro skaiciuokle
+![screencapture-localhost-Trikampio-ploto-skaiciuokle](https://user-images.githubusercontent.com/107833251/207033279-13ba163f-8af0-4808-93a0-f2e8feec3952.png)
+
 
 
