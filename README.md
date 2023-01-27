@@ -1,4 +1,4 @@
-# 3-PHP-skaiciuokles
+# 4-PHP-skaiciuokles
 Sukurkite puslapius į kurios galėtumėme įvesti duomenis, ir gautumėme atsakymą (kiekviena užduotis turi būti sprendžiama skirtingame puslapyje, padarykite patogų vaikščiojimą tarp užduočių (meniu)).:
 
 1.  Įvedami skaičiai -a, b, c –kraštinių ilgiai (į atskirus input laukus). Parašykite PHP programą, kuri nustatytų, ar galima sudaryti trikampį ir rezultatą išvestų.
